@@ -1,6 +1,6 @@
 <template>
     <header>
-      <h1 class="h1-text">СКОРО БУДЕТ!</h1>
+      <h1 class="h1-text">СКОРО БУДЕТ! V</h1>
       <nav>
         <!-- Здесь могут быть ссылки на маршруты -->
         <!-- <router-link to="/home">Главная</router-link>
